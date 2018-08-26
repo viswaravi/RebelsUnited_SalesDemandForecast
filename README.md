@@ -33,6 +33,12 @@ The companies we interviewed are
 9. Wholesale Dress Dealer – Large Scale Business
 10 . Electronic Appliances Dealer, Arrapalayam – Large Scale Business
 
+MODEL:
+The reason of using Back Propogation Neural Networks is because new variables can be added to the dataset at any time needed and priorities can be given to each and every variable so that when new variables can be added which gives more accurate value than before so that the work need not be started from base.
+
+The input layer consists of number of neurons equal to the shape of X, there is a hidden layer between the input layer and output layer. The hidden layer consists of 3 neurons and the output layer consists of only one neuron which gives out the predicted sales values after succesful updations of the weights in the neural network through fprward propogation and back propogation methods.
+
+
 OverView of the Application:
 The UserInterface of this project is madeup of MEAN stack with ML python Integration using NodeJs.
 In the Login Module all users can login using their unique emailID and password which will be stored in MongoDB
