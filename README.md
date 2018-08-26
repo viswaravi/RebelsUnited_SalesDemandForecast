@@ -33,6 +33,10 @@ The companies we interviewed are
 9. Wholesale Dress Dealer – Large Scale Business
 10 . Electronic Appliances Dealer, Arrapalayam – Large Scale Business
 
+
+![](6cBT.gif)
+
+
 MODEL:
 The reason of using Back Propogation Neural Networks is because new variables can be added to the dataset at any time needed and priorities can be given to each and every variable so that when new variables can be added which gives more accurate value than before so that the work need not be started from base.
 
